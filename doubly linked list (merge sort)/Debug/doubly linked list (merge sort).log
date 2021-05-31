@@ -1,3 +1,0 @@
-﻿  main.cpp
-C:\Users\buddy\source\repos\doubly linked list (merge sort)\doubly linked list (merge sort)\main.cpp(120): warning C4715: List::fast_passage_to_element: значение возвращается не при всех путях выполнения
-  doubly linked list (merge sort).vcxproj -> C:\Users\buddy\source\repos\doubly linked list (merge sort)\Debug\doubly linked list (merge sort).exe
